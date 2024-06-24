@@ -13,13 +13,16 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #070101;
+    /* background-color: #000000; */
+    background-image: url("./assets/bg1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container{
     width: 500px;
     height: min-content;
-    background-color: #e6f5fb;
+    background-color: #596d75;
     border-radius: 12px;
     padding: 28px;
 }
